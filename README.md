@@ -4,37 +4,31 @@ qb-target is a targeting solution that allows interaction with any predefined en
 
 ## Credits
 
-* Lots of credits goes to [qtarget](https://github.com/overextended/qtarget) for rewriting all of bt-target to make it more optimized and this resource is pretty much a fork of it.
+- Lots of credits goes to [qtarget](https://github.com/overextended/qtarget) for rewriting all of bt-target to make it more optimized and this resource is pretty much a fork of it.
 
-* Huge credit to [bt-target](https://github.com/brentN5/bt-target) from brentN5 for making the target a thing!
+- Huge credit to [bt-target](https://github.com/brentN5/bt-target) from brentN5 for making the target a thing!
 
-* Credit to [ms-peds](https://github.com/MiddleSkillz/ms-peds) for allowing me to use their awesome ped spawner inside the target!
+- Credit to [ms-peds](https://github.com/MiddleSkillz/ms-peds) for allowing me to use their awesome ped spawner inside the target!
 
 ## Dependency
 
-* [PolyZone](https://github.com/mkafrin/PolyZone)
+- [PolyZone](https://github.com/mkafrin/PolyZone)
 
 ## Optional Dependency
 
-* [QBCore](https://github.com/qbcore-framework/qb-core)
-
-## Information
-
-This repository was originally a direct fork and now it's own repository as it's basically qtarget but with lots of changes to it to make it better, most of the code comes from qtarget as I find their work awesome on this and what they've achieved with it.
-
-You are free to help through Pull Requests and leave as much suggestions or issues, I love some help!
-
-The TEMPLATES.md and EXAMPLES.md are always being improved and new examples can be made on request, just let me know!
+- [QBCore](https://github.com/qbcore-framework/qb-core)
 
 ## Features 
-- Maintains compatibility with bt-target while providing improved utility and performance
-- Optimised and improved raycasting function allows interaction with a wider range of entities
-- Add generic options to apply for all players, peds, vehicles, or objects
-- Trigger an event, function or command after clicking an option, with the ability to pass any data through
-- Define distance on a per-option or overall basis when triggering a target option
-- Ability to redefine or remove options and add new options without replacing old ones
-- Update the option list when moving towards or away from a target with variable distances on their options
-- Support for entity bones, with built-in tables for opening vehicle doors
-- Support checking for job, gang, citizenid, items, or specific entities
-- Utilise the `canInteract` function for advanced checks to show or hide an option based on any trigger
-- Ped spawner to spawn peds and assign target options to them all in one place
+All features of [qb-target](https://github.com/qbcore-framework/qb-target)
+
+## Installation
+Simply delete the old `qb-target` and paste this `qb-target` by downloading [Latest Release](https://github.com/secret-sahil/qb-target/releases/tag/v1.0.0)
+
+## Preview
+![qb-target](https://cdn.discordapp.com/attachments/1019354711054352384/1160182743393648703/image.png?ex=6533bb61&is=65214661&hm=6aed8024df8fc4654c52bf2bfd654af09f708a7d2c879579c04295110cc8990e&)
+
+## Get other scripts in the same theme!
+- ### [qb-clothing](https://forum.cfx.re/t/free-qbcore-character-menu-clothing-menu/4898891)
+[![qb-clothing](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1172970/e327e4f7ab6f11e3c6963e67f79017b06a9115f5.png)](https://forum.cfx.re/t/free-qbcore-character-menu-clothing-menu/4898891)
+- ### [qb-radialmenu](https://forum.cfx.re/t/esx-qbcore-radial-menu-a-never-seen-radial-menu-script/5043017)
+[![qb-radialmenu](https://forum.cfx.re/uploads/default/original/4X/d/7/8/d7830b664201c6a799506e4ce9f4b8ba0815037a.jpeg)](https://forum.cfx.re/t/esx-qbcore-radial-menu-a-never-seen-radial-menu-script/5043017)

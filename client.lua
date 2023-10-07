@@ -143,7 +143,9 @@ local function EnableNUI(options)
 	SetNuiFocusKeepInput(true)
 	hasFocus = true
 	SendNUIMessage({response = "validTarget", data = options})
-	TriggerScreenblurFadeIn(100)
+	if Config.BackgroundBlur then
+		TriggerScreenblurFadeIn(100)
+	end
 end
 
 exports('EnableNUI', EnableNUI)

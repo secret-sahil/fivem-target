@@ -1,0 +1,3 @@
+BackGroundBlur = {
+    Blur = true
+}
